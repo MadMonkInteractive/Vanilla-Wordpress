@@ -1,0 +1,11 @@
+# Wordpress Defaults 
+
+This is just a standard Wordpress installation with a few additions we use for most projects.
+
+## Assets
+
+This directory holds css/js/img/font
+
+## third-party
+
+This directory holds any additional scripts to include. They can be included in functions.php via `include ABSPATH.'/third-party/filename.php';`
